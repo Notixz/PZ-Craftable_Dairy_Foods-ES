@@ -1,0 +1,15 @@
+ItemName_ES = {
+	ItemName_SKL.DairyCookingMag = "Revista 'La buena Cocina'",
+	ItemName_SKL.Strainer = "Colador",
+	ItemName_SKL.PowderedMilk = "Leche en polvo",
+	ItemName_SKL.MilkJar = "Leche en frasco",
+	ItemName_SKL.MilkWaterBottle = "Botella de Leche",
+	ItemName_SKL.MilkPopBottle = "Botella de Leche Pop",
+	ItemName_SKL.CheesePrep = "Preparacion para Queso",
+	ItemName_SKL.YogurtCulture = "Cultivo de Yogurt",
+	ItemName_SKL.YogurtPrep = "Preparacion para Yogurt",
+	ItemName_SKL.YogurtJar = "Tarro de Yogurt",
+	ItemName_SKL.YogurtBowl = "Tazon de Yogurt",
+	ItemName_SKL.Butter = "Mantequilla",
+	ItemName_SKL.Yoghurt = "Yogurt",
+}

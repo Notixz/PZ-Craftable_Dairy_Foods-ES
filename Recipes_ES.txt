@@ -1,0 +1,16 @@
+Recipe_ES = {
+	Recipe_Make_Jar_of_Milk = "Hacer frasco de Leche",
+	Recipe_Empty_Jar_of_Milk = "Vaciar frasco de Leche",
+	Recipe_Make_Bottle_of_Milk = "Hacer botella de Leche",
+	Recipe_Make_Butter = "Hacer Mantequilla",
+	Recipe_Prepare_Cheese = "Preparar Queso",
+	Recipe_Make_Cheese = "Hacer Queso",
+	Recipe_Prepare_Yogurt = "Preparar Yogurt",
+	Recipe_Make_Bowl_of_Yogurt = "Hacer tazon de Yogurt",
+	Recipe_Make_Jar_of_Yogurt = "Hacer frasco de Yogurt",
+	Recipe_Empty_Jar_of_Yogurt = "Vacira frasco de Yogurt",
+	Recipe_Make_Mildew_Cure = "Hacer cura para el Moho",
+	Recipe_Make Cake Batter = "Hacer masa de Pastel",
+	Recipe_Make_Bowl_of_Cereal = "Hacer tazon de Cereal",
+	Recipe_Prepare_Muffins = "Preparar Muffins",
+}
